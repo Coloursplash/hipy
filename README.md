@@ -36,7 +36,7 @@ To build HIPY, you will need:
 ### Using cabal
 
 ```sh
-git clone https://github.com/coloursplash/hipy.git
+git clone https://github.com/coloursplash/haskell-interpreter-for-python.git hipy
 cd hipy
 cabal build
 cabal run . -- example.py
