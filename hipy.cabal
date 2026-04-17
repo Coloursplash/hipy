@@ -1,7 +1,7 @@
 cabal-version: 3.0
 
 name: hipy
-version: 0.0.0.2
+version: 0.0.2.0
 synopsis: A Python interpreter written in Haskell
 license: MIT
 license-file: LICENSE
@@ -61,3 +61,4 @@ test-suite hipy-test
         ParserTests,
         TestUtils,
         TokeniserTests
+
